@@ -16,7 +16,8 @@ This project leverages artificial intelligence to automate the inspection of rai
 
 ## 📂 Project Structure
 
-![Project Structure](images/project_structure.jpg)
+![Project Structure](![image](https://github.com/user-attachments/assets/6c30d398-267f-4515-9784-b2d52fbb8e84)
+)
 
 ```plaintext
 Railway-Inspection-Using-AI/
@@ -35,7 +36,6 @@ Railway-Inspection-Using-AI/
 
 ## 🚀 Installation
 
-![Installation Steps](images/installation.jpg)
 
 1. **Clone the Repository:**
    ```bash
@@ -67,7 +67,8 @@ Railway-Inspection-Using-AI/
 ## 📊 Results
 
 ### Sample Detection Output  
-![Sample Output](images/sample_output.jpg)
+![Sample Output](![image](https://github.com/user-attachments/assets/c8b306cf-28b5-42e5-a799-5f6f3989b907)
+)
 
 - **Model Performance:**
   - Precision: 98%
