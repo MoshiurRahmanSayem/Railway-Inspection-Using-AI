@@ -18,20 +18,6 @@ This project leverages artificial intelligence to automate the inspection of rai
 
 ![Project Structure](https://github.com/user-attachments/assets/a727ca9f-6a29-4b1c-854f-8cc891facadd)
 
-
-```plaintext
-Railway-Inspection-Using-AI/
-│
-├── 📁 datasets/                 # Annotated datasets in YOLO format
-├── 📁 models/                   # Trained models and configurations
-├── 📁 scripts/                  # Python scripts for preprocessing, training, and testing
-├── 📁 results/                  # Outputs like graphs, metrics, and detected images
-├── 📁 docs/                     # Documentation and tutorials
-├── 📄 requirements.txt          # Python dependencies
-├── 📄 README.md                 # Project description
-└── 📄 LICENSE                   # License information
-```
-
 ---
 
 ## 🚀 Installation
