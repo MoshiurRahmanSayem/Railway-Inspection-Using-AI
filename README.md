@@ -81,7 +81,6 @@ Railway-Inspection-Using-AI/
 
 ## 🛠️ Tools and Technologies
 
-![Technologies Used](images/technologies.jpg)
 
 - **Python**: Core programming language for scripting and modeling.
 - **YOLO**: Annotation and detection framework for images.
