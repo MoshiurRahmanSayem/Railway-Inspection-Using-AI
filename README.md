@@ -71,7 +71,7 @@ This project leverages artificial intelligence to automate the inspection of rai
 
 - **Python**: Core programming language for scripting and modeling.
 - **YOLO**: Annotation and detection framework for images.
-- **TensorFlow/PyTorch**: Deep learning framework for training and inference.
+- **Google CoLab**: Deep learning framework for training and inference.
 - **Kaggle**: Platform for dataset management and experimentation.
 - **OpenCV**: Image processing and analysis library.
 
