@@ -20,36 +20,6 @@ This project leverages artificial intelligence to automate the inspection of rai
 
 ---
 
-## 🚀 Installation
-
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/MdMehedi-Hassan/Railway-Inspection-Using-AI.git
-   cd Railway-Inspection-Using-AI
-   ```
-
-2. **Install Dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Prepare Dataset:**
-   - Use YOLO format to annotate images of railway tracks.
-   - Place the annotated dataset in the `datasets/` directory.
-
-4. **Train Model:**
-   ```bash
-   python scripts/train.py
-   ```
-
-5. **Test Model:**
-   ```bash
-   python scripts/test.py --input path/to/test/images
-   ```
-
----
-
 ## 📊 Results
 
 ### Sample Detection Output  
@@ -77,7 +47,7 @@ This project leverages artificial intelligence to automate the inspection of rai
 
 ---
 
-## **Technology Stack**  
+## 🧠 Technology Stack
 - **Machine Learning (ML)**:  
   - Used for feature extraction and classification to detect track defects.  
   - Ensures robust and reliable detection using a supervised learning approach.  
@@ -91,7 +61,7 @@ This project leverages artificial intelligence to automate the inspection of rai
 
 ---
 
-## **Implementation Details**  
+## 💻 Implementation Details  
 
 ### **Machine Learning (ML)**  
 - **Purpose**: Feature extraction and classification of defects.  
@@ -113,7 +83,7 @@ While NLP is not directly implemented in the current version, it has potential a
 
 ---
 
-## **Future Scope**  
+## 📈 Future Scope 
 1. **Integrating NLP**: Add features for generating inspection reports and interacting with users via natural language queries.  
 2. **Real-Time Analysis**: Improve the system to analyze video streams for live defect detection.  
 3. **Deployment**: Implement the solution in edge devices for on-site railway inspections.  
@@ -129,5 +99,5 @@ While NLP is not directly implemented in the current version, it has potential a
 ![val_batch2_pred](https://github.com/user-attachments/assets/14ad918c-1040-4bd5-aaa3-dfb7bd8c7346)
 
 ---
-## **Conclusion**  
+## 🌟 Conclusion
 This project successfully combines Machine Learning and Neural Networks to automate railway track inspections, providing a scalable and efficient solution. Future iterations will integrate NLP for enhanced user interaction and reporting capabilities, making it an all-in-one AI-powered inspection tool.
