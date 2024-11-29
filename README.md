@@ -77,27 +77,6 @@ This project leverages artificial intelligence to automate the inspection of rai
 
 ---
 
-## 📄 Future Scope
-
-- Enhance the model's robustness by adding more diverse datasets.
-- Real-time deployment using edge devices like Raspberry Pi.
-- Expand detection to include other railway components (e.g., switches, signals).
-- Integrate predictive maintenance algorithms.
-
----
-
-## 🤝 Contribution
-
-Contributions are welcome! Follow these steps to contribute:
-
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature-branch-name`.
-3. Commit your changes: `git commit -m "Feature description"`.
-4. Push the changes: `git push origin feature-branch-name`.
-5. Open a Pull Request.
-
----
-
 ### 📸 Additional Images
 
 ![val_batch0_pred](https://github.com/user-attachments/assets/64943a3f-5748-477d-99c7-8e987f36820e)
