@@ -46,6 +46,7 @@ This project leverages artificial intelligence to automate the inspection of rai
 ---
 
 ## 🧠 Technology Stack
+
 - **Machine Learning (ML)**:  
   - Used for feature extraction and classification to detect track defects.  
   - Ensures robust and reliable detection using a supervised learning approach.  
@@ -82,6 +83,7 @@ While NLP is not directly implemented in the current version, it has potential a
 ---
 
 ## 📈 Future Scope 
+
 1. **Integrating NLP**: Add features for generating inspection reports and interacting with users via natural language queries.  
 2. **Real-Time Analysis**: Improve the system to analyze video streams for live defect detection.  
 3. **Deployment**: Implement the solution in edge devices for on-site railway inspections.  
@@ -99,6 +101,7 @@ While NLP is not directly implemented in the current version, it has potential a
 ---
 
 ## 🌟 Conclusion
+
 This project demonstrates the power of combining Machine Learning, Neural Networks, and advanced Computer Vision techniques to tackle real-world challenges in railway safety. By automating the inspection of railway tracks, it offers a scalable, efficient, and accurate solution that reduces reliance on manual labor and minimizes human error.
 The success of this system in detecting defects like cracks and misalignments underscores its potential as a critical tool for maintaining railway infrastructure. Looking ahead, the integration of Natural Language Processing for interactive reporting and real-time analysis capabilities will elevate the project into a comprehensive AI-powered inspection platform.
 Through continuous development and real-world deployment, this project paves the way for smarter, safer, and more sustainable railway operations worldwide. 
