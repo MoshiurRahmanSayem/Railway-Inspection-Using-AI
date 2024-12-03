@@ -82,11 +82,24 @@ While NLP is not directly implemented in the current version, it has potential a
 
 ---
 
-## 📈 Future Scope 
+## 📈 Future Scope
 
-1. **Integrating NLP**: Add features for generating inspection reports and interacting with users via natural language queries.  
-2. **Real-Time Analysis**: Improve the system to analyze video streams for live defect detection.  
-3. **Deployment**: Implement the solution in edge devices for on-site railway inspections.  
+1. **Real-Time Video Integration**  
+   The system now supports real-time video feed analysis, enabling continuous monitoring of railway tracks for potential defects.
+
+2. **Fully Software-Based Solution**  
+   Developed a platform-independent software application compatible with both laptops and mobile devices. The application utilizes laptop or mobile cameras to process live or recorded videos efficiently.
+
+3. **Live GPS-Based Defect Localization**  
+   Integrated GPS-based tagging to accurately locate defects. Maintenance teams can now identify exact locations using railway track pillar numbers or GPS coordinates.
+
+4. **Google Maps Integration**  
+   Seamlessly integrated Google Maps to allocate defect locations in real time, providing precise directions for maintenance teams to address issues swiftly.  
+
+This robust solution ensures enhanced railway track safety by combining real-time monitoring, precise defect localization, and seamless accessibility across devices.
+
+![image](https://github.com/user-attachments/assets/88a38e2f-b5cc-44d1-adef-04b137de3ebe)
+ 
 
 ---
 
