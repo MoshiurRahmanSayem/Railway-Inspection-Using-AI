@@ -39,8 +39,6 @@ This project leverages artificial intelligence to automate the inspection of rai
 
 **Precision-Recall Curve**![image](https://github.com/user-attachments/assets/9eb2e1f8-1eea-422a-8b25-cbace6f7fc50)
 
-- **Detected Issues:** Cracks, displacements, and wear on tracks were effectively identified during testing.
-
 ---
 
 ## 🛠️ Tools and Technologies
@@ -116,6 +114,7 @@ This robust solution ensures enhanced railway track safety by combining real-tim
 
 ![val_batch2_pred](https://github.com/user-attachments/assets/14ad918c-1040-4bd5-aaa3-dfb7bd8c7346)
 
+- **Detected Issues:** Cracks, displacements, and wear on tracks were effectively identified during testing.
 ---
 
 ## 🌟 Conclusion
