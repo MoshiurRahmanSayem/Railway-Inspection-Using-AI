@@ -27,9 +27,11 @@ This project leverages artificial intelligence to automate the inspection of rai
 ![Sample Output](https://github.com/user-attachments/assets/e8881892-aad8-49b0-a38c-78142190fb2e)
 
 - **Model Performance:**
-  - Precision: 98%
-  - Recall: 95%
-  - F1-Score: 96.5%
+  - Precision: 100%
+  - Recall: 100%
+  - F1-Score: 99.5%
+
+![F1 Curve]![image](https://github.com/user-attachments/assets/eefa5dba-b1da-4c4d-abca-7c0fe33caa53)
 
 - **Detected Issues:** Cracks, displacements, and wear on tracks were effectively identified during testing.
 
