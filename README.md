@@ -97,8 +97,6 @@ While NLP is not directly implemented in the current version, it has potential a
    Seamlessly integrated Google Maps to allocate defect locations in real time, providing precise directions for maintenance teams to address issues swiftly.  
 
 This robust solution ensures enhanced railway track safety by combining real-time monitoring, precise defect localization, and seamless accessibility across devices.
-
-![image](https://github.com/user-attachments/assets/88a38e2f-b5cc-44d1-adef-04b137de3ebe)
  
 ---
 
