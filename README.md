@@ -1,4 +1,4 @@
-# Railway Inspection Using AI 🚆🤖
+![image](https://github.com/user-attachments/assets/2ef3fc6c-3281-4220-ae65-6bf9611132af)# Railway Inspection Using AI 🚆🤖
 
 This project leverages artificial intelligence to automate the inspection of railway tracks, ensuring safety, efficiency, and reduced human intervention. Using cutting-edge computer vision techniques and deep learning, this system detects and analyzes railway track conditions from images captured during inspection.
 
@@ -31,7 +31,14 @@ This project leverages artificial intelligence to automate the inspection of rai
   - Recall: 100%
   - F1-Score: 99.5%
 
-![F1 Curve]![image](https://github.com/user-attachments/assets/eefa5dba-b1da-4c4d-abca-7c0fe33caa53)
+**F1-Confidence Curve**![image](https://github.com/user-attachments/assets/eefa5dba-b1da-4c4d-abca-7c0fe33caa53)
+
+**Precision-Confidence Curve**![image](https://github.com/user-attachments/assets/3621a2bd-6cd9-404a-8fd2-e8cab0c8dc7b)
+
+**Recall-Confidence Curve**![image](https://github.com/user-attachments/assets/caecaf06-4cff-47b8-94e9-31160db6c662)
+
+**Precision-Recall Curve**![image](https://github.com/user-attachments/assets/9eb2e1f8-1eea-422a-8b25-cbace6f7fc50)
+
 
 - **Detected Issues:** Cracks, displacements, and wear on tracks were effectively identified during testing.
 
