@@ -100,7 +100,6 @@ This robust solution ensures enhanced railway track safety by combining real-tim
 
 ![image](https://github.com/user-attachments/assets/88a38e2f-b5cc-44d1-adef-04b137de3ebe)
  
-
 ---
 
 ### 📸 Additional Images
