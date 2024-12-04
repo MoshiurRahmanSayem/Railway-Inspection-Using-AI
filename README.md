@@ -122,3 +122,9 @@ This robust solution ensures enhanced railway track safety by combining real-tim
 This project demonstrates the power of combining Machine Learning, Neural Networks, and advanced Computer Vision techniques to tackle real-world challenges in railway safety. By automating the inspection of railway tracks, it offers a scalable, efficient, and accurate solution that reduces reliance on manual labor and minimizes human error.
 The success of this system in detecting defects like cracks and misalignments underscores its potential as a critical tool for maintaining railway infrastructure. Looking ahead, the integration of Natural Language Processing for interactive reporting and real-time analysis capabilities will elevate the project into a comprehensive AI-powered inspection platform.
 Through continuous development and real-world deployment, this project paves the way for smarter, safer, and more sustainable railway operations worldwide. 
+
+## Video Overview:
+Check out our project demonstration on YouTube:
+
+[Watch the video here](https://www.youtube.com/watch?v=your_video_link)
+
